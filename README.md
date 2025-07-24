@@ -8,7 +8,7 @@ Link: https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset
   b. itemproperties.csv: Contains a set of properties for each item—such as price, stock status, category, brand, etc. Each property can change over time, so the file includes a timestamp for each value. This file will be divided into two sub-files.
 2. Implemented in 2 ways:
    a. LightGCN "pure"
-   b. Feautr-enhanced LightGCN
+   b. Feauture-enhanced LightGCN
 3. Conclusion
    <img width="422" height="280" alt="image" src="https://github.com/user-attachments/assets/b15ec6b2-02e7-4182-ae20-f93916a84e45" />
 
